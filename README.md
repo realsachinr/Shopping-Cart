@@ -24,3 +24,8 @@ User Flow:
 3) Viewing Cart: Users can navigate to the cart page to see all items added, along with the total item count and the aggregate price.
 
 This project demonstrates an effective use of ReactJS for the frontend and Redux Toolkit for managing application state, providing a robust and scalable solution for building a shopping cart feature in a web application.
+
+How to use?
+Step 1 -  Clone this project
+Step 2 - install Node Module
+Step 3 - Run Command "npm start"
