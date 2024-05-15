@@ -26,6 +26,6 @@ User Flow:
 This project demonstrates an effective use of ReactJS for the frontend and Redux Toolkit for managing application state, providing a robust and scalable solution for building a shopping cart feature in a web application.
 
 How to use?
-Step 1 -  Clone this project
-Step 2 - install Node Module
-Step 3 - Run Command "npm start"
+1. Step 1 -  Clone this project
+2. Step 2 - install Node Module
+3. Step 3 - Run Command "npm start"
