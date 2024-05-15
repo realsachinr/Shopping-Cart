@@ -29,3 +29,12 @@ How to use?
 1. Step 1 -  Clone this project
 2. Step 2 - install Node Module
 3. Step 3 - Run Command "npm start"
+
+                                Screenshot
+
+
+![image](https://github.com/realsachinr/Shopping-Cart/assets/154586309/8a12a305-890d-4acf-baad-e5baf7bcce79)
+
+![image](https://github.com/realsachinr/Shopping-Cart/assets/154586309/2c5987d1-d889-464f-be5a-0ca44337f27e)
+
+
